@@ -12,7 +12,7 @@ author: Steven Coy
 
 ## Web Developer
 
-The primary role I am looking for is a web developer...
+I am looking for a role as a full-stack web developer to further develop the skills I have learned and demonstrated in the projects below, and surely will learn in the next project.
 
 ## Projects
 
