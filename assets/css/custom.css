@@ -3,6 +3,7 @@ h1 {
   color: red;
 }
 
-#roles-im-searching-for {
-  margin-top: 5px;
+h4 {
+  display: none;
+  color: rgb(0, 153, 204);
 }

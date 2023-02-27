@@ -16,7 +16,7 @@ The primary role I am looking for is a web developer...
 
 ## Projects
 
-<a target="_blank" rel="noopener noreferrer" href="https://gridsquid.ragmats.com/">### GridSquid (2022) - Custom Grid Creator</a>
+### GridSquid (2022) - Custom Grid Creator
 
 <a target="_blank" rel="noopener noreferrer" href="https://gridsquid.ragmats.com/"><img style="padding: 10px; border: 0px;" src="https://gridsquid.pythonanywhere.com/static/gridsquid/img/gs_logo_long.svg" alt="GridSquid Logo" width="100%"/></a>
 
@@ -25,7 +25,7 @@ GridSquid is an educational single-page application coded in JavaScript and Pyth
 **Features:**
 
 - A front-end written in JavaScript, HTML, and responsive CSS ([Bootstrap 5](https://getbootstrap.com/docs/5.0/getting-started/introduction/){:target="\_blank"}{:rel="noopener noreferrer"} in part, the rest hand-coded).
-- A fully CRUD-capable backend written in [Django](https://www.djangoproject.com/){:target="\_blank"}{:rel="noopener noreferrer"}/Python.
+- A fully CRUD-capable backend written in [Django](https://www.djangoproject.com/){:target="\_blank"}{:rel="noopener noreferrer"}/Python with many custom-written APIs.
 - User authentication and password resets via email.
 - Guest accounts (w/ same user access) that get deleted after 30 days checked daily via a custom command automated task.
 - User accounts for creating and storing sets of custom grids containing images, audio, and/or text captions.
