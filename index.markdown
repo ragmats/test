@@ -43,13 +43,13 @@ GridSquid is an educational single-page application coded in JavaScript and Pyth
 
 **Video demo:**
 
-<iframe width="560" height="315" src="https://youtu.be/qhYY0cqv-ig" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/watch?v=qhYY0cqv-ig&ab_channel=StevenCoy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ### Oopsie (2021) - Anti-Fertility Calculator
 
 <a target="_blank" rel="noopener noreferrer" href="https://oopsie.ragmats.com/"><img style="padding: 10px; border: 0px;" src="https://oopsie.pythonanywhere.com/static/images/oopsie_logo.svg" alt="Oopsie Logo" width="100%"/></a>
 
-Oopsie is a web-based anti-fertility application that celebrates the wonderful, life-altering event of not getting pregnant. It was built with Python, Flask, and JavaScript. In this project, I learned how to set up a backend in Flask and deliver the user calculations based on their input and data from a database. I also learned about timezone localization and managing user sessions.
+Oopsie is a web-based anti-fertility application that celebrates the wonderful, life-altering event of not getting pregnant. It was built with Python, Flask, and JavaScript. In this project, I learned how to set up a backend in Flask and deliver the user calculations based on their input and data from a database. I also learned how to work with classes for cleaner code, timezone localization, and managing user sessions.
 
 **Features Include:**
 
