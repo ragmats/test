@@ -6,4 +6,3 @@ description: Web dev projects by Steven Coy.
 
 plugins:
   - jekyll-include-cache
-  - jekyll-target-blank
