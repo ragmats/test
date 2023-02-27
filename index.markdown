@@ -52,7 +52,7 @@ I learned so much from this project, namely how to set up a CRUD-capable backend
 
 [Oopsie](https://oopsie.ragmats.com/){:target="\_blank"}{:rel="noopener noreferrer"} is a web-based anti-fertility application that celebrates the wonderful, life-altering event of not getting pregnant. I made this tool because I love my kids and two are enough for me 😊
 
-This project was built with Flask/Python and JavaScript. I learned how to set up a backend and render templates with calculations based on user input and data from a database. I also learned how to work with classes for cleaner code, Python's datetime module, time zone localization, and managing user sessions.
+This project was built with Flask/Python and JavaScript. I learned how to set up a backend and render templates with calculations based on user input and data from a database. I also learned how to work with classes for cleaner code, Python's datetime module, time zone localization, and persistent user sessions.
 
 **Features Include:**
 
