@@ -12,7 +12,7 @@ author: Steven Coy
 
 ## Web Developer Projects
 
-I am a self-taught web developer who believes in (and enjoys) project-based learning. I am looking for a role as a full-stack web developer to further develop the skills I have learned and demonstrated in the projects below.
+I am a self-taught web developer who believes in and enjoys project-based learning. I am looking for a role as a full-stack web developer to further develop the skills I have learned and demonstrated in the projects below.
 
 ## GridSquid (2022) - Custom Grid Creator
 
@@ -48,7 +48,7 @@ I am a self-taught web developer who believes in (and enjoys) project-based lear
 
 <a target="_blank" rel="noopener noreferrer" href="https://oopsie.ragmats.com/"><img style="padding: 10px; border: 0px;" src="https://oopsie.pythonanywhere.com/static/images/oopsie_logo.svg" alt="Oopsie Logo" width="100%"/></a>
 
-[Oopsie](https://oopsie.ragmats.com/){:target="\_blank"}{:rel="noopener noreferrer"} is a web-based anti-fertility application that celebrates the wonderful, life-altering event of not getting pregnant. It was built with Flask/Python and JavaScript. In this project, I learned how to set up a backend in Flask and deliver calculations based on user input and data from a database. I also learned how to work with classes for cleaner code, Python's datetime module, timezone localization, and managing user sessions.
+[Oopsie](https://oopsie.ragmats.com/){:target="\_blank"}{:rel="noopener noreferrer"} is a web-based anti-fertility application that celebrates the wonderful, life-altering event of not getting pregnant. (I love my kids but two are enough for me.) It was built with Flask/Python and JavaScript. In this project, I learned how to set up a backend in Flask and deliver calculations based on user input and data from a database. I also learned how to work with classes for cleaner code, Python's datetime module, timezone localization, and managing user sessions.
 
 **Features Include:**
 
