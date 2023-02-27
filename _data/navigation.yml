@@ -6,16 +6,3 @@ main:
 #  - title: "References"
 #    url: '/references/'
 
-# docs:
-#   - title: I'm Searching For...
-#     children:
-#       - title: Web Developer
-#         url: "#Web Developer"
-#   - title: Projects
-#     children:
-#       - title: "Sirme"
-#         url: /#Sirme
-#       - title: "GridSquid"
-#         url: /#GridSquid
-#       - title: "Oopsie"
-#         url: /#Oopsie

@@ -10,17 +10,11 @@ author: Steven Coy
 
 <link rel="stylesheet" href="assets/css/custom.css">
 
-## Roles I'm searching for...
+## Web Developer
 
-### Web Developer
-
-The primary role I am looking for is a web developer. This is what I have the most experience in and believe I have a good understanding of the full stack. From databases and backends to presenting things on a webpage, I can do it.
+The primary role I am looking for is a web developer...
 
 ## Projects
-
-### Sirme: A Simon Game (React Project in progress)
-
-Sirme will be my first React project created in React. It is a Simon game with a couple stylistic twists.
 
 ### GridSquid (2022)
 
@@ -28,8 +22,7 @@ Sirme will be my first React project created in React. It is a Simon game with a
 
 GridSquid is an educational single-page application coded in JavaScript and Python (Django) that lets users make custom grids of images with associated sounds and captions.
 
-[gridsquid.ragmats.com](https://gridsquid.ragmats.com/)
-<a href="http://example.com/" target="_blank">Hello, world!</a>
+<a href="https://gridsquid.ragmats.com/" target="_blank">gridsquid.ragmats.com</a>
 
 ### Oopsie (2021)
 
@@ -37,4 +30,4 @@ GridSquid is an educational single-page application coded in JavaScript and Pyth
 
 Oopsie is a web-based anti-fertility application that celebrates the wonderful, life-altering event of not getting pregnant. It was built with Python, Flask, and JavaScript.
 
-[oopsie.ragmats.com](https://oopsie.ragmats.com/)
+<a href="oopsie.ragmats.com" target="_blank">https://oopsie.ragmats.com/</a>

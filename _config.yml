@@ -1,8 +1,8 @@
 remote_theme: "mmistakes/minimal-mistakes@4.24.0"
 
 minimal_mistakes_skin: "dark"
-title: Testing Jekyll
-description: This is a test...
+title: Web Dev Projects
+description: Web dev projects by Steven Coy.
 
 plugins:
   - jekyll-include-cache
