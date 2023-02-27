@@ -9,20 +9,13 @@ main:
 docs:
   - title: I'm Searching For...
     children:
-      - title: Web3 Engineer
-        url: "#web3-engineer"
-      - title: "Full Stack Software Engineer"
-  - title: Current
+      - title: Web Developer
+        url: "#Web Developer"
+  - title: Projects
     children:
-      - title: "YouTube"
-        url: /#youtube
-      - title: "Space Pool"
-        url: /#space-pool
-  - title: Skills
-    children:
-      - title: "Solidity Smart Contracts"
-        url: /#solidity
-      - title: "NFTs"
-        url: /#nfts
-      - title: "Web Development"
-        url: /#web-development
+      - title: "Sirme"
+        url: /#Sirme
+      - title: "GridSquid"
+        url: /#GridSquid
+      - title: "Oopsie"
+        url: /#Oopsie
