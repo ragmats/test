@@ -16,10 +16,9 @@ The primary role I am looking for is a web developer...
 
 ## Projects
 
-<a href="https://gridsquid.ragmats.com/">
-### GridSquid (2022) - Custom Grid Creator
+<a target="_blank" rel="noopener noreferrer" href="https://gridsquid.ragmats.com/">### GridSquid (2022) - Custom Grid Creator</a>
 
-<img style="padding: 10px; border: 0px;" src="https://gridsquid.pythonanywhere.com/static/gridsquid/img/gs_logo_long.svg" alt="GridSquid Logo" width="100%"/></a>
+<a target="_blank" rel="noopener noreferrer" href="https://gridsquid.ragmats.com/"><img style="padding: 10px; border: 0px;" src="https://gridsquid.pythonanywhere.com/static/gridsquid/img/gs_logo_long.svg" alt="GridSquid Logo" width="100%"/></a>
 
 GridSquid is an educational single-page application coded in JavaScript and Python (Django) that lets users make custom grids of images with associated sounds and captions.
 
@@ -38,6 +37,7 @@ GridSquid is an educational single-page application coded in JavaScript and Pyth
 - A memory game that can be played on any grid complete with sound effects and CSS "card flip" animations.
 - Auto-generated quizzes for any grid that can be taken with audio only, text only, or both.
 - A collection page called "MyGrids" where all user grids and can be viewed and organized into albums.
+- Deployed on [PythonAnywhere](https://pythonanywhere.com/){:target="\_blank"}{:rel="noopener noreferrer"}.
 
 **View this project:** [gridsquid.ragmats.com](https://gridsquid.ragmats.com/){:target="\_blank"}{:rel="noopener noreferrer"}
 
