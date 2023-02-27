@@ -9,7 +9,6 @@ Steven Coy:
     - label: "LinkedIn"
       icon: "fas fa-fw fa-link"
       url: "https://www.linkedin.com/in/stevenlewiscoy/"
-      target: "_blank"
 
     #- label: "Website"
     #  icon: "fas fa-fw fa-link"

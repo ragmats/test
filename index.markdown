@@ -22,7 +22,7 @@ The primary role I am looking for is a web developer...
 
 GridSquid is an educational single-page application coded in JavaScript and Python (Django) that lets users make custom grids of images with associated sounds and captions.
 
-<a href="https://gridsquid.ragmats.com/" target="_blank">gridsquid.ragmats.com</a>
+[gridsquid.ragmats.com](https://gridsquid.ragmats.com/)
 
 ### Oopsie (2021)
 
@@ -30,4 +30,4 @@ GridSquid is an educational single-page application coded in JavaScript and Pyth
 
 Oopsie is a web-based anti-fertility application that celebrates the wonderful, life-altering event of not getting pregnant. It was built with Python, Flask, and JavaScript.
 
-<a href="oopsie.ragmats.com" target="_blank">https://oopsie.ragmats.com/</a>
+[oopsie.ragmats.com](https://oopsie.ragmats.com/)
