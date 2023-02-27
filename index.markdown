@@ -48,7 +48,7 @@ I am a self-taught web developer who believes in and enjoys project-based learni
 
 <a target="_blank" rel="noopener noreferrer" href="https://oopsie.ragmats.com/"><img style="padding: 10px; border: 0px;" src="https://oopsie.pythonanywhere.com/static/images/oopsie_logo.svg" alt="Oopsie Logo" width="100%"/></a>
 
-[Oopsie](https://oopsie.ragmats.com/){:target="\_blank"}{:rel="noopener noreferrer"} is a web-based anti-fertility application that celebrates the wonderful, life-altering event of not getting pregnant. (I love my kids but two are enough for me.) It was built with Flask/Python and JavaScript. In this project, I learned how to set up a backend in Flask and deliver calculations based on user input and data from a database. I also learned how to work with classes for cleaner code, Python's datetime module, timezone localization, and managing user sessions.
+[Oopsie](https://oopsie.ragmats.com/){:target="\_blank"}{:rel="noopener noreferrer"} is a web-based anti-fertility application that celebrates the wonderful, life-altering event of not getting pregnant. (I love my kids but two are enough for me.) It was built with Flask/Python and JavaScript. In this project, I learned how to set up a backend in Flask and deliver calculations based on user input and data from a database. I also learned how to work with classes for cleaner code, Python's datetime module, time zone localization, and managing user sessions.
 
 **Features Include:**
 
@@ -56,7 +56,7 @@ I am a self-taught web developer who believes in and enjoys project-based learni
 - Responsive design using CSS media queries.
 - Complex algorithms for determining oopsie chance based on date, time, and user inputs.
 - A "permanent" session for a persistent user experience.
-- Timezone localization.
+- Time zone localization.
 - A calendar view that displays the current, last, and next week of oopsie chances.
 - A JavaScript simulation/mini-game.
 - Deployed on [PythonAnywhere](https://pythonanywhere.com/){:target="\_blank"}{:rel="noopener noreferrer"} (previously Heroku).
