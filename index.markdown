@@ -1,5 +1,5 @@
 ---
-title: "Steven Coy - Web Developer Projects"
+title: "Steven Coy Web Developer Projects"
 layout: "single"
 toc: true
 toc_sticky: true
@@ -10,13 +10,11 @@ author: Steven Coy
 
 <link rel="stylesheet" href="assets/css/custom.css">
 
-## Web Developer
+## Web Developer Projects
 
-I am looking for a role as a full-stack web developer to further develop the skills I have learned and demonstrated in the projects below, and surely will learn in the next project.
+I am looking for a role as a full-stack web developer to further develop the skills I have learned and demonstrated in the projects below.
 
-## Projects
-
-### GridSquid (2022) - Custom Grid Creator
+## GridSquid (2022) - Custom Grid Creator
 
 <a target="_blank" rel="noopener noreferrer" href="https://gridsquid.ragmats.com/"><img style="padding: 10px; border: 0px;" src="https://gridsquid.pythonanywhere.com/static/gridsquid/img/gs_logo_long.svg" alt="GridSquid Logo" width="100%"/></a>
 
@@ -45,7 +43,7 @@ GridSquid is an educational single-page application coded in JavaScript and Pyth
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/qhYY0cqv-ig" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-### Oopsie (2021) - Anti-Fertility Calculator
+## Oopsie (2021) - Anti-Fertility Calculator
 
 <a target="_blank" rel="noopener noreferrer" href="https://oopsie.ragmats.com/"><img style="padding: 10px; border: 0px;" src="https://oopsie.pythonanywhere.com/static/images/oopsie_logo.svg" alt="Oopsie Logo" width="100%"/></a>
 
