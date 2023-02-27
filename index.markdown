@@ -18,7 +18,7 @@ I am a self-taught web developer who believes in (and enjoys) project-based lear
 
 <a target="_blank" rel="noopener noreferrer" href="https://gridsquid.ragmats.com/"><img style="padding: 10px; border: 0px;" src="https://gridsquid.pythonanywhere.com/static/gridsquid/img/gs_logo_long.svg" alt="GridSquid Logo" width="100%"/></a>
 
-[GridSquid](https://gridsquid.ragmats.com/){:target="\_blank"}{:rel="noopener noreferrer"} is an educational single-page application coded in JavaScript and Python (Django) that lets users make custom grids of images with associated sounds and captions. I learned so much from this project, namely how to set up a CRUD-capable backend with user authentication, custom APIs, and integration of open-source libraries, as well as a responsive front-end UI optimized for user engagement and experience.
+[GridSquid](https://gridsquid.ragmats.com/){:target="\_blank"}{:rel="noopener noreferrer"} is an educational single-page application coded in JavaScript and Python (Django) that lets users make custom grids of images with associated sounds and captions. I learned so much from this project, namely how to set up a CRUD-capable backend with user authentication, custom APIs, and integration of open-source libraries, as well as a responsive front-end UI optimized for user engagement and experience. I also became more familiar with Git and the deployment process.
 
 **Features Include:**
 
