@@ -51,9 +51,9 @@ I am a self-taught web developer who believes in (and enjoys) project-based lear
 
 **Features Include:**
 
-- A main page that gives the user their "oopsie" chance as a percentage based on method inputs and researched data points.
+- A main page that gives the user their "oopsie" chance as a percentage based on method inputs and researched data.
 - Responsive design using CSS media queries.
-- Complex algorithms for determining oopsie chance based on date and user inputs.
+- Complex algorithms for determining oopsie chance based on date, time, and user inputs.
 - A "permanent" session for a persistent user experience.
 - Timezone localization.
 - A calendar view that displays the current, last, and next week of oopsie chances.
