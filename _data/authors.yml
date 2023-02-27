@@ -3,12 +3,12 @@ Steven Coy:
   bio: "Bio..."
   avatar: "/assets/images/headshot.jpg"
   links:
-    - label: "Email"
+    - label: "stevencoy@gmail.com"
       icon: "fas fa-fw fa-envelope-square"
       url: "mailto:stevencoy@gmail.com"
     - label: "LinkedIn"
       icon: "fas fa-fw fa-link"
-      url: "https://www.linkedin.com/in/stevenlewiscoy/"
+      url: "https://www.linkedin.com/in/stevenlewiscoy/" target="_blank"
 
     #- label: "Website"
     #  icon: "fas fa-fw fa-link"
