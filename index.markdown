@@ -18,7 +18,9 @@ I am a self-taught web developer who believes in and enjoys project-based learni
 
 <a target="_blank" rel="noopener noreferrer" href="https://gridsquid.ragmats.com/"><img style="padding: 10px; border: 0px; filter: brightness(2.0);" src="https://gridsquid.pythonanywhere.com/static/gridsquid/img/gs_logo_long.svg" alt="GridSquid Logo" width="100%"/></a>
 
-[GridSquid](https://gridsquid.ragmats.com/){:target="\_blank"}{:rel="noopener noreferrer"} is an educational single-page application coded in JavaScript and Python (Django) that lets users make custom grids of images with associated sounds and captions. I learned so much from this project, namely how to set up a CRUD-capable backend with user authentication, custom APIs, and integration of open-source libraries, as well as a good understanding of JavaScript concepts like promises, async/await, destructuring, the spread operator, array methods, and the Fetch API (to name a few). I also became more familiar with Git and the deployment process.
+[GridSquid](https://gridsquid.ragmats.com/){:target="\_blank"}{:rel="noopener noreferrer"} is an educational single-page application coded in JavaScript and Python (Django) that lets users make custom grids of images with associated sounds and captions. Originally, the idea was to help toddler-aged kids learn the faces and names of all their relatives, but it developed into a much broader application that is useful in homeschool, language studies, and other general education.
+
+I learned so much from this project, namely how to set up a CRUD-capable backend with user authentication, custom APIs, and integration of open-source libraries, as well as a good understanding of JavaScript concepts like promises, async/await, destructuring, the spread operator, array methods, and the Fetch API (to name a few). I also became more familiar with Git and the deployment process.
 
 **Features Include:**
 
@@ -48,7 +50,9 @@ I am a self-taught web developer who believes in and enjoys project-based learni
 
 <a target="_blank" rel="noopener noreferrer" href="https://oopsie.ragmats.com/"><img style="padding: 10px; border: 0px;" src="https://oopsie.pythonanywhere.com/static/images/oopsie_logo.svg" alt="Oopsie Logo" width="100%"/></a>
 
-[Oopsie](https://oopsie.ragmats.com/){:target="\_blank"}{:rel="noopener noreferrer"} is a web-based anti-fertility application that celebrates the wonderful, life-altering event of not getting pregnant. (I love my kids but two are enough for me.) It was built with Flask/Python and JavaScript. In this project, I learned how to set up a backend in Flask and deliver calculations based on user input and data from a database. I also learned how to work with classes for cleaner code, Python's datetime module, time zone localization, and managing user sessions.
+[Oopsie](https://oopsie.ragmats.com/){:target="\_blank"}{:rel="noopener noreferrer"} is a web-based anti-fertility application that celebrates the wonderful, life-altering event of not getting pregnant. I made tool because I love my kids and two are enough for me.
+
+It was built with Flask/Python and JavaScript. In this project, I learned how to set up a backend in Flask and render templates with calculations based on user input and data from a database. I also learned how to work with classes for cleaner code, Python's datetime module, time zone localization, and managing user sessions.
 
 **Features Include:**
 
