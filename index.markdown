@@ -29,6 +29,7 @@ Sirme will be my first React project created in React. It is a Simon game with a
 GridSquid is an educational single-page application coded in JavaScript and Python (Django) that lets users make custom grids of images with associated sounds and captions.
 
 [gridsquid.ragmats.com](https://gridsquid.ragmats.com/)
+<a href="http://example.com/" target="_blank">Hello, world!</a>
 
 ### Oopsie (2021)
 
