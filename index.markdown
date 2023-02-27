@@ -20,9 +20,9 @@ The primary role I am looking for is a web developer...
 
 <a target="_blank" rel="noopener noreferrer" href="https://gridsquid.ragmats.com/"><img style="padding: 10px; border: 0px;" src="https://gridsquid.pythonanywhere.com/static/gridsquid/img/gs_logo_long.svg" alt="GridSquid Logo" width="100%"/></a>
 
-GridSquid is an educational single-page application coded in JavaScript and Python (Django) that lets users make custom grids of images with associated sounds and captions.
+GridSquid is an educational single-page application coded in JavaScript and Python (Django) that lets users make custom grids of images with associated sounds and captions. I learned so much from this project, namely how to set up a CRUD-capable backend with user authentication and custom APIs as well as a responsive front-end UI optimized for user engagement and experience.
 
-**Features:**
+**Features Include:**
 
 - A front-end written in JavaScript, HTML, and responsive CSS ([Bootstrap 5](https://getbootstrap.com/docs/5.0/getting-started/introduction/){:target="\_blank"}{:rel="noopener noreferrer"} in part, the rest hand-coded).
 - A fully CRUD-capable backend written in [Django](https://www.djangoproject.com/){:target="\_blank"}{:rel="noopener noreferrer"}/Python with many custom-written APIs.
@@ -39,12 +39,18 @@ GridSquid is an educational single-page application coded in JavaScript and Pyth
 - A collection page called "MyGrids" where all user grids and can be viewed and organized into albums.
 - Deployed on [PythonAnywhere](https://pythonanywhere.com/){:target="\_blank"}{:rel="noopener noreferrer"}.
 
-**View this project:** [gridsquid.ragmats.com](https://gridsquid.ragmats.com/){:target="\_blank"}{:rel="noopener noreferrer"}
+**View this project in action:** [gridsquid.ragmats.com](https://gridsquid.ragmats.com/){:target="\_blank"}{:rel="noopener noreferrer"}
+
+**Video demo:**
+
+<iframe width="560" height="315" src="https://youtu.be/qhYY0cqv-ig" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ### Oopsie (2021) - Anti-Fertility Calculator
 
-<img style="padding: 10px;" src="https://oopsie.pythonanywhere.com/static/images/oopsie_logo.svg" alt="Oopsie Logo" width="100%"/>
+<a target="_blank" rel="noopener noreferrer" href="https://oopsie.ragmats.com/"><img style="padding: 10px; border: 0px;" src="https://oopsie.pythonanywhere.com/static/images/oopsie_logo.svg" alt="Oopsie Logo" width="100%"/></a>
 
-Oopsie is a web-based anti-fertility application that celebrates the wonderful, life-altering event of not getting pregnant. It was built with Python, Flask, and JavaScript.
+Oopsie is a web-based anti-fertility application that celebrates the wonderful, life-altering event of not getting pregnant. It was built with Python, Flask, and JavaScript. In this project, I learned how to set up a backend in Flask and deliver the user calculations based on their input and data from a database. I also learned about timezone localization and managing user sessions.
 
-**View this project:** [oopsie.ragmats.com](https://oopsie.ragmats.com/){:target="\_blank"}{:rel="noopener noreferrer"}
+**Features Include:**
+
+- **View this project:** [oopsie.ragmats.com](https://oopsie.ragmats.com/){:target="\_blank"}{:rel="noopener noreferrer"}
