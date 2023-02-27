@@ -23,7 +23,7 @@ I am a self-taught web developer who believes in (and enjoys) project-based lear
 **Features Include:**
 
 - A front-end written in JavaScript, HTML, and responsive CSS ([Bootstrap 5](https://getbootstrap.com/docs/5.0/getting-started/introduction/){:target="\_blank"}{:rel="noopener noreferrer"} in part, the rest hand-coded).
-- Implementtion as a SPA (single-page application) with history states for better user navigation.
+- Implementation as a single-page application (SPA) with history states for better user navigation.
 - A fully CRUD-capable backend written in [Django](https://www.djangoproject.com/){:target="\_blank"}{:rel="noopener noreferrer"}/Python with many custom-written APIs.
 - User authentication and password resets via email.
 - Guest accounts (w/ same user access) that get deleted every 30 days, checked daily via automated task and custom command.
@@ -58,7 +58,7 @@ I am a self-taught web developer who believes in (and enjoys) project-based lear
 - A "permanent" session for a persistent user experience.
 - Timezone localization.
 - A calendar view that displays the current, last, and next week of oopsie chances.
-- A JavaScript similation/mini-game.
+- A JavaScript simulation/mini-game.
 - Deployed on [PythonAnywhere](https://pythonanywhere.com/){:target="\_blank"}{:rel="noopener noreferrer"} (previously Heroku).
 
 - **View this project in action:** [oopsie.ragmats.com](https://oopsie.ragmats.com/){:target="\_blank"}{:rel="noopener noreferrer"}
