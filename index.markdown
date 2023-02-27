@@ -18,16 +18,17 @@ I am a self-taught web developer who believes in (and enjoys) project-based lear
 
 <a target="_blank" rel="noopener noreferrer" href="https://gridsquid.ragmats.com/"><img style="padding: 10px; border: 0px; filter: brightness(2.0);" src="https://gridsquid.pythonanywhere.com/static/gridsquid/img/gs_logo_long.svg" alt="GridSquid Logo" width="100%"/></a>
 
-[GridSquid](https://gridsquid.ragmats.com/){:target="\_blank"}{:rel="noopener noreferrer"} is an educational single-page application coded in JavaScript and Python (Django) that lets users make custom grids of images with associated sounds and captions. I learned so much from this project, namely how to set up a CRUD-capable backend with user authentication, custom APIs, and integration of open-source libraries, as well as a responsive front-end UI optimized for user engagement and experience. I also became more familiar with Git and the deployment process.
+[GridSquid](https://gridsquid.ragmats.com/){:target="\_blank"}{:rel="noopener noreferrer"} is an educational single-page application coded in JavaScript and Python (Django) that lets users make custom grids of images with associated sounds and captions. I learned so much from this project, namely how to set up a CRUD-capable backend with user authentication, custom APIs, and integration of open-source libraries, as well as a good understanding of JavaScript promises, async/await, destructuring, the spread operator, array methods, and the Fetch API (to name a few). I also became more familiar with Git and the deployment process.
 
 **Features Include:**
 
 - A front-end written in JavaScript, HTML, and responsive CSS ([Bootstrap 5](https://getbootstrap.com/docs/5.0/getting-started/introduction/){:target="\_blank"}{:rel="noopener noreferrer"} in part, the rest hand-coded).
+- Implementtion as a SPA (single-page application) with history states for better user navigation.
 - A fully CRUD-capable backend written in [Django](https://www.djangoproject.com/){:target="\_blank"}{:rel="noopener noreferrer"}/Python with many custom-written APIs.
 - User authentication and password resets via email.
 - Guest accounts (w/ same user access) that get deleted every 30 days, checked daily via automated task and custom command.
 - User accounts for creating and storing sets of custom grids storing uploaded images, audio, and/or text captions.
-- Integrated cropping functionality for user-submitted images using the [Cropper.js](https://fengyuanchen.github.io/cropperjs/){:target="\_blank"}{:rel="noopener noreferrer"} library.
+- Cropping functionality for user-submitted images using the [Cropper.js](https://fengyuanchen.github.io/cropperjs/){:target="\_blank"}{:rel="noopener noreferrer"} library.
 - Backend image compression using [Pillow](https://python-pillow.org/){:target="\_blank"}{:rel="noopener noreferrer"}.
 - User-uploaded audio files converted to mp3 using [Pydub](http://pydub.com/){:target="\_blank"}{:rel="noopener noreferrer"}.
 - File/mime type validation of image and audio files via [Python Magic](https://github.com/ahupp/python-magic){:target="\_blank"}{:rel="noopener noreferrer"}.
