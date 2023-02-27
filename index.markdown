@@ -16,7 +16,7 @@ The primary role I am looking for is a web developer...
 
 ## Projects
 
-### GridSquid (2022)
+### GridSquid (2022) - Custome Grid Creator
 
 <img style="padding: 10px;" src="https://gridsquid.pythonanywhere.com/static/gridsquid/img/gs_logo_long.svg" alt="GridSquid Logo" width="100%"/>
 
@@ -24,7 +24,7 @@ GridSquid is an educational single-page application coded in JavaScript and Pyth
 
 <a href="https://gridsquid.ragmats.com/" target="_blank">gridsquid.ragmats.com</a>
 
-### Oopsie (2021)
+### Oopsie (2021) - Anti-Fertility Calculator
 
 <img style="padding: 10px;" src="https://oopsie.pythonanywhere.com/static/images/oopsie_logo.svg" alt="Oopsie Logo" width="100%"/>
 
